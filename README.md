@@ -1,4 +1,4 @@
 - 👋 Hi, We are @zero-threshold
 - 👀 We are a group of tech enthusists who build apps for fun...
-- 💞️ We are Looking to contribute on interesting projects
+- 💞️ We are looking to contribute on interesting projects as freelancers
 - 📫 You can reach us at zerothreshold@gmail.com
